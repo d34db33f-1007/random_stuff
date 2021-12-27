@@ -12,4 +12,4 @@ Random collection of maybe usefull scripts from my laptop.
 * [proxy.py](https://github.com/d34db33f-1007/random_stuff/blob/main/proxy.py) -- Fastest ever live proxy checker.
 * [tor_scrap.py](https://github.com/d34db33f-1007/random_stuff/blob/main/tor_scrap.py) -- Recuresevely scraps almost all website's assets (media and code). Has an integrated pure TOR-protocol implemantation. So the code is dependency-free. 
 * [extract_sections_python.py](https://github.com/d34db33f-1007/random_stuff/blob/main/extract_sections_python.py) -- Extract PE-file sections.
-* [build_shellcode_pe.py](https://github.com/d34db33f-1007/random_stuff/blob/main/build_shellcode_pe.py) -- Simply build PE-shellcode using LIEF.
+* [build_shellcode_pe.py](https://github.com/d34db33f-1007/random_stuff/blob/main/build_shellcode_pe.py) -- Simply build portable executable from the shellcode using LIEF.
